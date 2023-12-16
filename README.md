@@ -82,6 +82,7 @@ fake (false negative), and 4035 true news articles were
 correctly classified as true (true positive). Overall, the model
 performs well at classifying true versus fake news, with high
 accuracy, recall, and F1-scores for both classes.
+
 After extracting the most important features, aka the
 features (words) that are most associated with fake versus
 true classification, it was clear that the top words associated
@@ -112,4 +113,4 @@ sentiment that is ten times more negative than those
 associated with true news and displays a higher overall
 variance from neutrality.
 
-Read my whole paper here: https://drive.google.com/file/d/1qpowxSfW7aXoddbdeRnhIftFOVzsmRQd/view?usp=sharing
+Read my whole paper here: https://drive.google.com/file/d/1udVaVI3LWE5XdpW_kpXZrRv0HCUax7F3/view?usp=sharing
